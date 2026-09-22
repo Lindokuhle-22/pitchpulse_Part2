@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "882710078334",
+    "project_id": "pitchpulse-feb0a",
+    "storage_bucket": "pitchpulse-feb0a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882710078334:android:6004663db3eb59d094892f",
+        "android_client_info": {
+          "package_name": "com.pitchpulse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEQ2bpdYbZRPi2SZGpBBtFB1FiwIc-AAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
