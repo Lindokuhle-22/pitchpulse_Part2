@@ -31,8 +31,7 @@ offline mode, and the news Discover feed — all specified in Section B but not 
 for Part 2. See `PART2_PLAN.md` for the full rationale.
 
 ## Demo video
-
-`<ADD YOUR UNLISTED YOUTUBE LINK HERE>`
+https://youtu.be/GVMlWgndA64
 
 ## AI Tool Usage Declaration
 
